@@ -1,5 +1,5 @@
 -------------------------------
-  NEW CALL __INIT__ EACH TIME
+  NEW CALL `__INIT__` EACH TIME
 -------------------------------
 
 - Get cat instance
@@ -25,7 +25,7 @@
 
 
 ---------------------------------------------------
-  DECORATOR DOSN'T CALL __INIT__ ONLY FIRST TIME
+  DECORATOR CALL `__INIT__` ONLY FIRST TIME
 ---------------------------------------------------
 
 - Get cat instance
