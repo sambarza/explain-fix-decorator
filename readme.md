@@ -1,6 +1,6 @@
---------------------------
-  WITH NEW:
---------------------------
+-------------------------------
+  NEW CALL __INIT__ EACH TIME
+-------------------------------
 
 - Get cat instance
 - Create cat instance
@@ -24,9 +24,9 @@
 - Get embedeed tools
 
 
---------------------------
-  WITH DECORATOR:
---------------------------
+---------------------------------------------------
+  DECORATOR DOSN'T CALL __INIT__ ONLY FIRST TIME
+---------------------------------------------------
 
 - Get cat instance
 - Create cat instance
